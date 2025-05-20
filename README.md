@@ -36,6 +36,19 @@ I'm a passionate software developer who loves to build real-world applications t
 
 ---
 
+### 🧠 Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />&nbsp;C  
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;C++  
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />&nbsp;Python  
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />&nbsp;JavaScript  
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />&nbsp;C#  
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />&nbsp;SQL  
+</div>
+
+---
+
 ### 🧰 Tools & Platforms
 
 <div align="center">
