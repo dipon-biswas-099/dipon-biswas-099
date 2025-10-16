@@ -79,9 +79,10 @@ I'm a passionate software developer who loves to build real-world applications t
 
 ## 📫 Let’s Connect
 
-- 📧 Email: diponbiswas099@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/dipon-biswas](https://www.linkedin.com/in/dipon-biswas)  
-- 🌐 Portfolio: *(Coming soon!)*
+- 📧 **Email:** [diponbiswas099@gmail.com](mailto:diponbiswas099@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/dipon-biswas](https://www.linkedin.com/in/dipon-biswas)  
+- 🌐 **Portfolio:** [personal-portfolio-dipon-biswas-ytt.vercel.app](https://personal-portfolio-dipon-biswas-ytt.vercel.app) 
+
 
 ---
 
